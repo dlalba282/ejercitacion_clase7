@@ -6,3 +6,7 @@ let suma = function () {
     return 150 + 50;
 };
 console.log(suma());
+
+for (let i=0, i<10; i++) {
+console.log(i);
+}

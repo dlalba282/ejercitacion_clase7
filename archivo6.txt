@@ -1,1 +1,2 @@
 Este es un archivo de texto
+Contiene informaión confidencial.
